@@ -3,7 +3,7 @@
  *
  *main- serve as entry point
  *
- *return zero if no error always
+ *return:zero if no error always
  */
 int main(void)
 {
