@@ -4,7 +4,7 @@
  *
  *Return:zero if no error, non zero value if errors
  */
-int main(void);
+int main(void)
 {
 	printf("Size of an int: %ld byte(s)\n", sizeof(int));
 	printf("Size of a long int: %ld byte(s)\n", sizeof(long int));
