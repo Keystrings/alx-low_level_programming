@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  *main- program entr point
 *Return:0 if no error, non zero if error
